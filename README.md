@@ -1,6 +1,7 @@
 # soiltau-ec modified
 An implementation for [A spatial emergent constraint on the sensitivity of soil carbon turnover to global warming](https://www.nature.com/articles/s41467-020-19208-8).
-<img src="https://github.com/nanst-pku/soiltau_ec_modified/tree/main/imgs/show.PNG" width="900px"/>
+
+<img src="imgs/show.PNG" width="900px"/>
 
 This project is based on the author's [original project](https://github.com/rebeccamayvarney/soiltau_ec). 
 + Several bugs have been modified.
