@@ -24,8 +24,8 @@ This project is based on the author's [original project](https://github.com/rebe
 + [MODIS NPP](https://lpdaac.usgs.gov/products/mod17a3v055/) product isn't available now, so the code that needs this data cannot be run temporarily. But they are not the main part of the paper.
 
 **Note**: 
-+ The above data are uploaded to [link](https://disk.pku.edu.cn:443/link/4BF2DF77FF6E1F77304AE8927FFFEFED) with the code except CMIP5 model output and CMIP6 model output because they are too large. 
-    + An example of ACCESS-ESM1-5 in ssp126 and ssp585 is given to show in Figure1, download example data at [link](https://disk.pku.edu.cn:443/link/DD1267653A909F694A51F45FD41E9568) and run Figure1_single.py to show it. 
++ The above data are uploaded to [link1](https://disk.pku.edu.cn:443/link/4BF2DF77FF6E1F77304AE8927FFFEFED) except CMIP5 model output and CMIP6 model output because they are too large. Download and unzip it to `observational_datasets` 
+    + An example of ACCESS-ESM1-5 in ssp126 and ssp585 is given to show in Figure1, download example data at [link2](https://disk.pku.edu.cn:443/link/DD1267653A909F694A51F45FD41E9568), unzip it to `cmip6_data` and run Figure1_single.py to show it. 
     + To get To get a complete chart, you need to download all the data.
 + The initial WFDEI data is monthly data rather than the annual average temperature of 2001-2010 used in the paper. 
     + The processed data has been placed under the directory `observational_datasets`
