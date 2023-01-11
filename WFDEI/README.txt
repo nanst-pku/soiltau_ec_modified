@@ -1,0 +1,1 @@
+由于WFDEI逐月数据总量过大，不再上传，可直接在网站[https://rda.ucar.edu/datasets/ds314.2/]下载2001年1月到2010年12月的数据，名称为Tair_WFDEI_年月，并根据脚本get_WFDEI_ann.py获取最终年均数据。
