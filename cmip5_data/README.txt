@@ -1,1 +1,1 @@
-在CMIP5下载cSOIL、rh和tas的rcp26，45，85数据以及历史数据，同时下载sftlf_fx的历史数据。
+Download rcp26, 45, 85 data and historical data of cSOIL, rh and tas in CMIP5, and download historical data of sftlf_fx at the same time.
