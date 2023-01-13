@@ -14,8 +14,8 @@ This project is based on the author's [original project](https://github.com/rebe
 + python=3.10.8
 
 ### Download data
-+ Download [CMIP5 model output](https://esgf-node.llnl.gov/search/CMIP5/) to directory `cmip5_data`.
-+ Download [CMIP6 model output](https://esgf-node.llnl.gov/search/cmip6/) to directory `cmip6_data`.
++ Download [CMIP5 model output](https://esgf-node.llnl.gov/search/CMIP5/) to directory `cmip5_data`, including cSoil, tas, rh in RCP26, 45 and 85 and CMIP historical data of cSoil, tas, rh and sftlf.
++ Download [CMIP6 model output](https://esgf-node.llnl.gov/search/cmip6/) to directory `cmip6_data`, including cSoil, tas, rh in ssp126, 245 and 585 and CMIP historical data of cSoil, tas, rh and sftlf.
 + Download [The WFDEI Meteorological Forcing Data](https://rda.ucar.edu/datasets/ds314.2/) to directory `WFDEI`.
 + Download [CARDAMOM Heterotrophic Respiration](https://datashare.is.ed.ac.uk/handle/10283/875) to directory `observational_datasets`.
 + Download [Raich et al. 2002 Soil Respiration](https://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp081/ndp081.html) to directory `observational_datasets`.
