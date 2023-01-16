@@ -14,6 +14,8 @@ This project is based on the author's [original project](https://github.com/rebe
 + python=3.10.8
 
 ### Download data
++ <img src="imgs/data.png" width="300px"/>
++ The required data from CMIP5 and 6 are listed in the table above.
 + Download [CMIP5 model output](https://esgf-node.llnl.gov/search/CMIP5/) to directory `cmip5_data`.
 + Download [CMIP6 model output](https://esgf-node.llnl.gov/search/cmip6/) to directory `cmip6_data`.
 + Download [The WFDEI Meteorological Forcing Data](https://rda.ucar.edu/datasets/ds314.2/) to directory `WFDEI`.
